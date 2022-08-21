@@ -1,1 +1,2 @@
-touch up_to_date
+git fetch origin
+get pull origin master
